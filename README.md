@@ -2,11 +2,11 @@
 Hello World! 
 I am Letícia!
 
-- 🔭 Currently i work as a systems analyst jr.
+- 🔭 Currently I work as a systems analyst jr.
 - 💻 Working to be a great developer.
 - 📚 Studying the penultimate semester of Systems Analysis and Development.
 - 📫 Contact: sleticiagclasen@gmail.com 
-- 😄 Pronoums: Ela/Dela | She/He
+- 😄 Pronoums: Ela/Dela | She/Her
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=letsquicia&show_icons=true&hide=issues,prs&theme=midnight-purple)
 <div>
