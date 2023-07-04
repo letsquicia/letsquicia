@@ -13,3 +13,5 @@ I am Letícia!
 <a href="https://www.instagram.com/letsquicia/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blanck"></a>
 <a href="https://www.linkedin.com/in/let%C3%ADcia-clasen-3a301b158/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
 </div>
+
+<img src="https://gitlab.com/letsquicia/projetoteste/-/raw/main/gif1.gif" width="170px"/>
